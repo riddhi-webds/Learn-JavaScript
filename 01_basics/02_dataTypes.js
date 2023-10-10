@@ -1,6 +1,6 @@
 // premitive daya type::::::::::
 // number => 2 to power 3
-// bigint =>
+// bigInt =>
 // string => ""
 // boolean => true or false
 // null => standalone value
